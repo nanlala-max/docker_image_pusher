@@ -7,3 +7,5 @@ xhofe/alist:latest
 mysql
 docker/compose
 rabbitmq
+nacos/nacos-server
+seataio/seata-server
